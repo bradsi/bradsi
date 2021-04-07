@@ -6,24 +6,11 @@
 
 A software developer from Manchester, UK. I'm currently open to opportunities and working on personal projects with PHP.
 
-## Currently Working On:
+## Finished Projects:
 - 📑 [Contact Book](https://github.com/bradsi/contact-book) - Manage your personal contacts. A learning project using PHP (without a framework) with authentication and CRUD operations. Built with MVC architecture.
 
+## Currently Working On:
+- 😎 Personal Blog/Portfolio Site - SPA with a Laravel REST API and React frontend.
+
 ## Upcoming Projects:
-- 😎 Personal Portfolio Site - SPA with a Laravel REST API and React frontend.
 - 💖 Universal Wishlist - A web app to save products from around the web into one place and receive updates on price/stock etc.
-
-<!--
-**bradsingleton/bradsingleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
