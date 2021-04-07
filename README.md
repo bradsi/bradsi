@@ -10,7 +10,7 @@ A software developer from Manchester, UK. I'm currently open to opportunities an
 - 📑 [Contact Book](https://github.com/bradsi/contact-book) - Manage your personal contacts. A learning project using PHP (without a framework) with authentication and CRUD operations. Built with MVC architecture.
 
 ## Upcoming Projects:
-- 😎 Personal Portfolio Site - SPA with a Laravel REST API and Vue frontend.
+- 😎 Personal Portfolio Site - SPA with a Laravel REST API and React frontend.
 - 💖 Universal Wishlist - A web app to save products from around the web into one place and receive updates on price/stock etc.
 
 <!--
