@@ -7,10 +7,11 @@
 A software developer from Manchester, UK. I'm currently open to opportunities and working on personal projects with PHP.
 
 ## Finished Projects:
+- 📝 [Personal Site](https://bradsi.com) - My personal blog/portfolio built with Gatsby.
 - 📑 [Contact Book](https://github.com/bradsi/contact-book) - Manage your personal contacts. A learning project using PHP (without a framework) with authentication and CRUD operations. Built with MVC architecture.
 
 ## Currently Working On:
-- 😎 Personal Blog/Portfolio Site - SPA with a Laravel REST API and React frontend.
+- 😎 DevDash - Manage your dev activities and resources in one centralised dashboard. Built with a Laravel REST API and React SPA frontend.
 
 ## Upcoming Projects:
 - 💖 Universal Wishlist - A web app to save products from around the web into one place and receive updates on price/stock etc.
