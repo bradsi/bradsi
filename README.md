@@ -4,7 +4,7 @@
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12578362/brad-singleton)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsingleton.uk@gmail.com)
 
-A software developer from Manchester, UK. Currently working as a Junior Developer for Huddled Media.
+A software developer from Manchester, UK. Currently working as a PHP Developer for Huddled Media.
 
 ## Finished Projects:
 - 📝 [Personal Site](https://bradsi.com) - My personal blog/portfolio built with Gatsby.
