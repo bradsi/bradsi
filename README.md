@@ -1,6 +1,6 @@
 # Hi, I'm Brad 👋
 
-A software developer from Manchester, UK. Currently working as a PHP Developer for Huddled Media.
+A software developer from Manchester, UK. Currently working as a Software Engineer for Lottie.
 
 ## Finished Projects:
 - 📝 [Personal Site](https://bradsi.com) - My personal blog/portfolio built with Next.js.
