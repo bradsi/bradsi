@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Senior Product Engineer mostly working with Laravel and React. I tend to build backend‑heavy products, small SaaS experiments, and tools that come out of day‑to‑day engineering problems. Most of what I’m working on is still evolving, so this profile will gradually fill out with projects, writeups, and things learned along the way as they take shape.
+
+I'm also open to freelancing, consulting, and occasionally volunteering my time on projects or causes that feel genuinely worthwhile. Send me an email if you have a project you want to discuss.
+
 <!--
 **bradsi/bradsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
